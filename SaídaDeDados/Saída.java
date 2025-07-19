@@ -1,6 +1,6 @@
 package SaídaDeDados;
 
-public class Print {
+public class Saída {
     public static void main(String[] args) {
         System.out.println("Hello World"); // Print com quebra de linha
         System.out.print("Ola Mundo");     // Print sem quebra de linha
